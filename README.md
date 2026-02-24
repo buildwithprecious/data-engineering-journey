@@ -64,12 +64,13 @@ I'm following a structured path divided into getting the skills to get hired, an
 Everything is kept in one place. My daily exercises live inside their respective topic folders:
 
 ```text
-buildwithprecious/
-├── 01_Foundations/
-│   ├── python/
-│   └── sql/
-│       ├── day_01.sql
-│       ├── day_02.sql
-│       └── ...
-├── 02_DE_Core/
-└── README.md
+data-engineering-journey/
+├── README.md               
+├── sql/                    
+│   ├── day_01.sql
+│   ├── day_02.sql
+│   └── ...
+├── python/                
+├── pyspark/
+└── projects/
+
